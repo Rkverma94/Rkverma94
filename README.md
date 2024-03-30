@@ -1,8 +1,22 @@
 
 <header>
   <h1>Hi! I am Rakesh</h1>
+  <h3>Welcom to my profile</h3>
 </header>
-
+<main>
+  <ul>Programming Skills:
+    <li>Python</li>
+    <li>Javascript</li>
+    <li>C++</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Data Structures</li>
+  </ul>  
+  <ul>Tools and platforms:
+    <li>Salesforce and it's ecosystem</li>
+    <li>Linux based os</li>
+  </ul>
+</main>
 <!--
 **Rkverma94/Rkverma94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
