@@ -4,7 +4,7 @@
   <h3>Welcom to my profile</h3>
 </header>
 <main>
-  <ul>Programming Skills:
+  <ul style="list-item:none;">Programming Skills:
     <li>Python</li>
     <li>Javascript</li>
     <li>C++</li>
