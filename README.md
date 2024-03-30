@@ -3,7 +3,7 @@
   <h1>Hi! I am Rakesh</h1>
   <h3>Welcom to my profile</h3>
 </header>
-<main>
+<main style="display:flex; justify-content:space-between;">
   <ul style="list-item:none;">Programming Skills:
     <li>Python</li>
     <li>Javascript</li>
