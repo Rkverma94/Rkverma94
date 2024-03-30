@@ -1,8 +1,4 @@
-<style>
-  body {
-    margin:0;
-  }
-</style>
+
 <header>
   <h1>Hi! I am Rakesh</h1>
 </header>
