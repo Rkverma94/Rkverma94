@@ -4,13 +4,13 @@
   <h3>Welcom to my profile</h3>
 </header>
 <main style="display:flex; justify-content:space-between;">
-  <div>Programming Skills:
-    <div>Python</div>
-    <div>Javascript</div>
-    <div>C++</div>
-    <div>HTML</div>
-    <div>CSS</div>
-    <div>Data Structures</div>
+  <div style="border: 1px solid gray; margin: 1rem; padding: 2rem 2rem; text-align: left;">Programming Skills:
+    <div style="padding: 0 2rem">Python</div>
+    <div style="padding: 0 2rem">Javascript</div>
+    <div style="padding: 0 2rem">C++</div>
+    <div style="padding: 0 2rem">HTML</div>
+    <div style="padding: 0 2rem">CSS</div>
+    <div style="padding: 0 2rem">Data Structures</div>
   </div>  
   <div>Tools and platforms:
     <div>Salesforce and it's ecosystem</div>
