@@ -4,18 +4,18 @@
   <h3>Welcom to my profile</h3>
 </header>
 <main style="display:flex; justify-content:space-between;">
-  <ul style="list-style-type:none;">Programming Skills:
-    <li>Python</li>
-    <li>Javascript</li>
-    <li>C++</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Data Structures</li>
-  </ul>  
-  <ul>Tools and platforms:
-    <li>Salesforce and it's ecosystem</li>
-    <li>Linux based os</li>
-  </ul>
+  <div>Programming Skills:
+    <div>Python</div>
+    <div>Javascript</div>
+    <div>C++</div>
+    <div>HTML</div>
+    <div>CSS</div>
+    <div>Data Structures</div>
+  </div>  
+  <div>Tools and platforms:
+    <div>Salesforce and it's ecosystem</div>
+    <div>Linux based os</div>
+  </div>
 </main>
 <!--
 **Rkverma94/Rkverma94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
