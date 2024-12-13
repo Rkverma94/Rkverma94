@@ -5,8 +5,8 @@
 </header>
 <main style="display:flex; justify-content:space-between;">
   <div style="border:1px solid gray; margin:1rem; padding:2rem 2rem; text-align:left;">Programming Skills:
-    <div style="padding: 0 2rem">Python</div>
-    <div style="padding: 0 2rem">Javascript</div>
+    <div style="padding: 0 20px">Python</div>
+    <div style="padding: 0 20px">Javascript</div>
     <div style="padding: 0 2rem">C++</div>
     <div style="padding: 0 2rem">HTML</div>
     <div style="padding: 0 2rem">CSS</div>
