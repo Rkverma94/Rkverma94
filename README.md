@@ -1,7 +1,7 @@
 
 <header>
   <h1>Hi! I am Rakesh</h1>
-  <h3>Welcom to my profile</h3>
+  <h3>Proficient in : </h3>
 </header>
 <main style="display:flex; justify-content:space-between;">
   <div style="border:1px solid gray; margin:1rem; padding:2rem 2rem; text-align:left;">Programming Skills:
